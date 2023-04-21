@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/invoicingservice-main/invoicingservice.iml" filepath="$PROJECT_DIR$/invoicingservice-main/invoicingservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/invoicingservice-main.iml" filepath="$PROJECT_DIR$/.idea/invoicingservice-main.iml" />
+    </modules>
+  </component>
+</project>
